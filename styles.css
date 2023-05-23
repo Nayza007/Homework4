@@ -9,6 +9,7 @@ body {
   max-width: 1200px;
   background: lightblue;
   margin: auto;
+  height: 2000px;
 }
 
 .container {
@@ -17,6 +18,7 @@ body {
   display: flex;
   background-color: white;
   flex-flow: column;
+  gap: 10px;
 }
 
 .marktag {
@@ -161,3 +163,5 @@ footer {
   font-size: 30px;
   padding-top: 90px;
 }
+
+/* blog */
